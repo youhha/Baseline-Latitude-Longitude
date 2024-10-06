@@ -1,3 +1,3 @@
 # Baseline-Latitude-Longitude
-## Project Overview
+
 Visual Simultaneous Localization and Mapping (SLAM) systems often employ fisheye lenses due to their broad field of view, which enhances localization robustness. However, fisheye image distortion poses challenges for traditional epipolar constraint matching algorithms, affecting system accuracy and stability. In this paper, we propose a novel Baseline Latitude-Longitude technique to optimize epipolar search in fisheye images. Our approach constructs a coordinate system based on latitude and longitude, transforming the polar point search into a meridian search. Experimental results demonstrate that our method outperforms traditional matching algorithms, achieving higher recall and precision, thereby improving the robustness and accuracy of SLAM systems. This work has significant potential applications in autonomous drone navigation and other visual-based localization tasks.
